@@ -1,0 +1,11 @@
+strlen
+strcpy
+strcmp
+strcat
+strncpy
+strncmp
+strncat
+memcpy
+memcmp
+strlcpy
+strlcat
